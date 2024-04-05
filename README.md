@@ -1,0 +1,1 @@
+This tool was an attempt to write an MDD exporter in python that will export animation point cache data out of Maya and into Modo (or any other DCC that can accept the MDD format).  I eventually moved to write this in C++ due to speed consuderations.
